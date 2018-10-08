@@ -1,2 +1,2 @@
-credentials.yml/
-.idea/
+/credentials.yml/
+/.idea/
