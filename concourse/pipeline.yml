@@ -13,7 +13,7 @@ jobs:
     params:
       app_name: sebusk-pipeline
       heroku_email: ((heroku_email))
-      heroku_api_token: ((heroku_api_key))
+      heroku_api_token: ((heroku_api_token))
 
 resources:
 
