@@ -11,7 +11,7 @@ jobs:
     file: heroku-example/concourse/heroku_sync.yml
     input_mapping: {source: heroku-pipeline-app}
     params:
-      app_name: gb-pipeline-app-ci
+      app_name: sebusk-pipeline
       heroku_email: ((heroku_email))
       heroku_api_token: ((heroku_api_key))
 
